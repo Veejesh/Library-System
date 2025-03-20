@@ -1,0 +1,6 @@
+TITLE,AUTHOR,ISBN,CATEGORY,PUBLISHER,PUBLICATION YEAR,COPIES,LOCATION,STATUS
+The Silent Patient,Alex Michaelides,9781250301697,Thriller,Celadon Books,2019,5,Shelf A1,Available
+Atomic Habits,James Clear,9780735211292,Self-Help,Penguin Random House,2018,8,Shelf A2,Available
+Dune,Frank Herber,9780441013593,Sci-Fi,Ace Books,1965,3,Shelf A3,Available
+Becoming,Michelle Obama,9781524763138,Biography,Crown Publishing,2018,6,Shelf A4,Available
+The Hobbit,J.R.R. Tolkien,9780618968633,Fantasy,Houghton Mifflin,1937,4,Shelf A5,Available

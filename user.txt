@@ -1,0 +1,6 @@
+ID,FIRSTNAME,LASTNAME,AGE,EMAIL,PHONE,ADDRESS,DOB,USERNAME,PASSWORD
+1,John,Doe,28,john.doe@email.com,1234567890,123 Elm St NY,1997-05-14,johndoe,pass123
+2,Sarah,Lee,34,sarah.lee@email.com,9876543210,456 Oak St CA,1990-08-22,sarahlee,lee456
+3,Mark,Smith,25,mark.smith@email.com,5678901234	,789 Pine St TX,1999-02-11,marksmith,smith789
+4,Emily,Brown,30,emily.brown@email.com,3456789012,321 Cedar St FL,1994-11-30,emilyb,brown123
+5,Daniel,Wilson,40,daniel.w@email.com,6789012345,654 Maple St WA,1983-05-05,williamt,thomas42

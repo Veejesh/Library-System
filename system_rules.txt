@@ -1,0 +1,5 @@
+Book Borrowing Limit – A user can borrow up to 5 books at a time and must return them within 14 days to avoid late fees.
+Late Return Penalty – A late fee of RS 100  per day per book will be charged for overdue books beyond the due date.
+Library Access Timing – The library is open from 8:00 AM to 8:00 PM, Monday to Saturday. It remains closed on Sundays and public holidays
+Account Suspension – If a user has 3 or more overdue books or unpaid fines exceeding RS300, their account will be temporarily suspended until the issue is resolved
+Staff Privileges – Staff members can issue, renew, and return books on behalf of users, but only administrators can modify system settings, add or remove books, and manage user accounts.
